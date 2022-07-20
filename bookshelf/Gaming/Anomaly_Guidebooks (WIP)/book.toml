@@ -1,0 +1,15 @@
+[book]
+authors = ["Domtron Vox", "13Swords"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Unofficial Anomaly Guidebooks"
+description = "Unofficial Guidebooks for the Anomaly game system owned by 13Swords."
+
+[output.html]
+default-theme = "navy"
+git-repository-url = ""
+cname = "anomaly-books.bendhacknslash.com"
+
+additional-css = ["addons/toc/toc_style.css"]
+additional-js = ["addons/toc/toc_sidebar.js"]
