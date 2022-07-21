@@ -2,6 +2,13 @@
 
 [Introduction](Introduction.md)
 
+# Workshops
+
+- [Chemistry Lab]()
+    - [Biolab](workshops/Biolab.md)
+- [Fabrication Shop]()
+
+
 # Electronics
 
 - [Super Capaciters](electronics/Super_Capacitors.md)
@@ -10,3 +17,5 @@
 # Materials
 
 - [Iron](materials/Iron.md)
+
+
