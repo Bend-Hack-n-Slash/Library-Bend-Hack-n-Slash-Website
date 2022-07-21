@@ -3,7 +3,7 @@ authors = ["Domtron Vox"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Building A Self-sufficient Christian Intentional Community"
+title = "Building A Self-sufficient, Christian Intentional Community"
 description = "Information covering the creation of a small scale self-sufficent, intentionally created community."
 
 [build]
@@ -17,6 +17,6 @@ additional-css = []
 git-repository-url = ""
 #cname = "self-sufficiency.bendhacknslash.com"
 
-[preprocessor.graphviz]
-command = "mdbook-graphviz"
-output-to-file = false
+#[preprocessor.graphviz]
+#command = "mdbook-graphviz"
+#output-to-file = false
