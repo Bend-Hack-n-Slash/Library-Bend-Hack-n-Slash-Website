@@ -8,6 +8,10 @@
     - [Biolab](workshops/Biolab.md)
 - [Fabrication Shop]()
 
+# Energy
+
+- [Sterling Engine](energy/Sterling_Engine.md)
+- [Wood Gasifier](energy/Wood_Gasifier.md)
 
 # Electronics
 
@@ -16,6 +20,12 @@
 
 # Materials
 
+- [Carbon Fiber](materials/Carbon_Fiber.md)
 - [Iron](materials/Iron.md)
+- [Plastic](materials/Plastic.md)
 
+# Computer Software
+
+- [Cryptocurrency Basics](computer_software/Cryptocurrency_Basics.md)
+    - [Cryptocurrency: Is It Money](computer_software/Cryptocurrency_Is_It_Money.md)
 
