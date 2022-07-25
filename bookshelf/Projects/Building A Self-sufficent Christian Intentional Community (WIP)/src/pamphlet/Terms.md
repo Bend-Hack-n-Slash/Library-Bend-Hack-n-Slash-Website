@@ -48,11 +48,12 @@ Modern technology is aimed at making things faster, and in large quantities. The
 
 ## Christian
 
-As Christians we should avoid a complete decoupling from society, because we are commanded to both bear a witness of Christ to the unsaved, and serve others to the best of our ability. The internet and modern transport technologies provide a median option: Construct a Christian community designed to safeguard us and our children against corrupting influences, but, via trips to other communities and work through the internet, continue to share Christ to the greater world and help those in need.
+As Christians, we should avoid a complete decoupling from society. We are commanded to both bear a witness of Christ to the unsaved, and serve others to the best of our ability. The internet and modern transport technologies provide a median option: Construct a Christian community designed to safeguard us and our children against corrupting influences, but, via trips to other communities and work through the internet, continue to share Christ to the greater world and help those in need.
 
 The benefit of organizing into such a community is to facilitate individual and corporate Christian growth in a safe environment with a tight knit group while still connecting with the local community for outreach ministries, charity, and entrepreneurial ventures. 
 
 This book’s purpose is not to exhaustively define what a “Christian” is, but does look at the design of a community from a Christian perspective. So a very basic definition will be placed here:
+
 1. The Bible is God’s word to us and reveals God and His plan for the world to us as well as Human nature.
 1. Because of the fall, Humanity’s natural state is sinful.
 1. Christ is divine and our only path of salvation is His freely given gift.
@@ -64,3 +65,9 @@ Point #2 is especially important as we design our social contract with each othe
 Point #4 should guides us in all we do for this endeavor, bringing God Glory.
 
 Point #5 should guide us to have plans built in to help people outside the community when we can.
+
+## Other Important Terms
+
+Here are a few more terms that will be used throughout the book. They will be defined when first used, but having them all in one place will likely be beneficial:
+
+* **Host Nation**: A short hand for the nation hosting the community aka the nation that your lands exist in and who have legal authority over you.

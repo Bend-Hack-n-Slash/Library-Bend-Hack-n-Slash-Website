@@ -16,6 +16,7 @@
 
 ---
 
-- [Social Design](social/Introduction.md)
-    - [Introduction](social/Introduction.md)
-
+- [Social Design](social/Purpose.md)
+    - [Purpose](social/Purpose.md)
+    - [Examining Goals](social/Examining_Goals.md)
+    - [Foundations of Success](social/Foundations_of_Success.md)
