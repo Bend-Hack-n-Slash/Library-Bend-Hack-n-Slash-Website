@@ -12,7 +12,9 @@
 ---
 
 - [Technical Design](tech/Introduction.md)
-    - [Introduction](tech/Introduction.md)
+    - [Methodology of Self-Sufficiency](tech/Deepdive_Self-Sufficiency.md) 
+        - [A Deepdive on Self-Sufficiency](tech/Deepdive_Self-Sufficiency.md)
+        - [Retaining a Modern Infrastructure](tech/Retaining_Modern_Infrastructure.md)
 
 ---
 
