@@ -7,6 +7,11 @@
 - [Chemistry Lab]()
     - [Biolab](workshops/Biolab.md)
 - [Fabrication Shop]()
+- [Electronics Fab](workshops/Electronics_Fab.md)
+
+# Equipment
+
+- [Microscope](equipment/Microscope.md)
 
 # Energy
 

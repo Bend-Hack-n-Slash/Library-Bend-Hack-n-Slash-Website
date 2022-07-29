@@ -34,6 +34,7 @@ Some considerations for the building/room the lab will be:
 | Centrifuge      | Spins a material to separate a solution based on density. |
 | Lab Scale       |  |
 | Magnetic Stirrers | |
+| [Microscope](../equipment/Microscope.md)      | |
 
 **Biolab Specific Equipment**
 
@@ -60,6 +61,7 @@ Some considerations for the building/room the lab will be:
 | Graduated Conical Flask | |
 
 Note you will also need reagents which will be covered in the operations section of this page.
+
 
 ## Operations
 
