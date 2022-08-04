@@ -12,16 +12,21 @@ This book plans to help with holes in people's knowledge so that they can safely
 
 The specific goal of an Intentional Community is to collect like minded people into a group to work with each other and help each other grow in those values. However, this poses a real risk of creating an "echo chamber" environment. Such an environment is dangerous for several reasons.
 
-1. It stifles growth. If someone is never challenged in their beliefs, then when they invariably come across a conflict of philosophies later on they will break rather then oppose the arguments against them.
+1. It stifles growth. If someone is never challenged in their beliefs, then when they invariably come across a conflict of philosophies, they will break rather then be capable of opposing the arguments against them.
 1. It stifles creativity. Creativity is helped by examining an idea from different viewpoints. If you are stuck always looking at a thing from one viewpoint you lose a significant amount of possible creativity.
-    
+
+We will try to design the social aspects to mitigate any Echo Chamber effects.
     
 ## Abuse of Authority
 
-Leadership is supposed to be a position of servitude. A good leader should maintain a healthy level of humility, putting aside their own wants and benefits to best lead the people they are placed over. Unfortunately leadership does have a certain amount of power associated with it, and power often draws in people that wish to use it for their own benifit. 
+Leadership is supposed to be a position of servitude. A good leader should maintain a healthy level of humility, putting aside their own wants and benefits to best lead the people they are placed over. Unfortunately leadership does have a certain amount of power associated with it, and power often draws in people that wish to use it for their own benefit. 
 
-As with any system where authority is held by one person over another, there is a risk of the leadership abusing it's authority. A large part of designing the social aspects will be in balancing how the leadership of the community is balanced against how they are able to act. 
+As with any system where authority is held by a person over another, there is a risk of the leadership abusing it's authority. A large part of designing the social aspects will be in balancing how the leadership of the community is balanced against how they are able to act. 
 
 We have the benefit that it is harder to hide corruption when everyone personally knows each other and is able to discuss what is happening in the community. However, we also have the fault that a small community can more easily fall into nepotism if one family grows larger then the others, though this is nicely defeated if the community is fully made up of one extended family.
 
- 
+## Financial Harm
+
+As with any endeavor there comes a risk of financial harm. This should be kept in mind when we design the aspects of on-boarding, and off-boarding members of the community. We want to make sure that people leaving will be in a decent position to continue on with their lives outside of the community.
+
+

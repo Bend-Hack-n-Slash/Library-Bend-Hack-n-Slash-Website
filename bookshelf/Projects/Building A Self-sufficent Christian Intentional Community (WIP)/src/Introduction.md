@@ -14,7 +14,7 @@ This Project is broken into 3 sections:
 
 ## Work in Progress
 
-As a small warning, this document is not complete. It is being added to and reworked, so is libel to change from week to week. There certainly may be mistakes or inconsistancies
+As a small warning, this document is not complete. It is being added to and reworked, so is liable to change from week to week. There almost certainly will be mistakes or inconsistencies that will eventually be fixed as work progresses.
 
 ## Joining
 
