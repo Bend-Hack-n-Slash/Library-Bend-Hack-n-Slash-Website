@@ -15,8 +15,10 @@
 
 # Energy
 
-- [Sterling Engine](energy/Sterling_Engine.md)
+- [Stirling Engine](energy/Stirling_Engine.md)
 - [Wood Gasifier](energy/Wood_Gasifier.md)
+- [Thermocouple](energy/Thermocouple.md)
+- [Iron Powder Power](energy/Iron_Powder_Power.md)
 
 # Electronics
 
