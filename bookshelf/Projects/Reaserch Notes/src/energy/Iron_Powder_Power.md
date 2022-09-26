@@ -22,7 +22,12 @@ Video covers an interesting idea to burn iron powder to produce energy. As many 
     * It would also be good to check on how fast rust settles out of the air.
 * **Not Portable**: You cannot really use it in a motor like gas can be used. It might be usable in a steam engine based vehicle. It's mostly good for heating like air and water for home use.
 
-# Reaserch TODO
+# Recycling Rust
+
+See [research page on sourcing Iron](../materials/Iron.md). There is a bacteria called iron bacteria that leaches rust out of the ground. Iron can be extracted from the bacteria slurry.
+
+
+# Research TODO
 * Check PPM that will harm a mouse and or human adult/child.
 * Check how fast rust settles out of the air.
 * Check how much rust would be thrown up into the air from burning iron powder.
