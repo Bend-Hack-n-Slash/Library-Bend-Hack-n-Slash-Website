@@ -31,5 +31,9 @@ See [research page on sourcing Iron](../materials/Iron.md). There is a bacteria 
 * Check PPM that will harm a mouse and or human adult/child.
 * Check how fast rust settles out of the air.
 * Check how much rust would be thrown up into the air from burning iron powder.
+* Check how easy it would be to make the system undergo a dust explosion.
+* How bad is iron powder to breath?
+* How hard would it be to keep the system enclosed and functioning to prevent both rust and iron powder from going airborne.
 * See if iron could be "burned" without a flame, just producing heat.
+* Look up more info on the old steam engine cars that uses a boiler "pipe" which were super safe against boiler explostions.
 
